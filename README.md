@@ -15,8 +15,8 @@ This project analyzes CBT (Computer Based Test) assessment results to understand
 - THe score pattern to an extent follows Normal distribution.
 
 ## Visualizations
-![Marks shown in Histogram](images/CBT-Histogram.png)
+![Marks shown in Histogram](4.images/CBT-Histogram.png)
 
-![Marks shown in KDE ](images/CBT-KDplot.png)
+![Marks shown in KDE ](4.images/CBT-KDplot.png)
 
 ## Project Structure
