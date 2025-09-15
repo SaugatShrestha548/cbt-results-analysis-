@@ -12,7 +12,7 @@ This project analyzes CBT (Computer Based Test) assessment results to understand
 ## Key Findings
 - Most of the Students in the DSc scores around 800 - 950 in CBT.
 - There is no any marks around 1400 - 1800 but One student has got above 1800+.
-- THe score pattern to an extent follows Normal distribution.
+- The score pattern to an extent follows Normal distribution.
 
 ## Visualizations
 ![Marks shown in Histogram](4.images/CBT-Histogram.png)
