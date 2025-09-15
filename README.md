@@ -20,3 +20,13 @@ This project analyzes CBT (Computer Based Test) assessment results to understand
 ![Marks shown in KDE ](4.images/CBT-KDplot.png)
 
 ## Project Structure
+This repository is structured as follows:
+
+* **`3.notebooks/`**: Contains the Jupyter notebooks used for data cleaning, analysis, and visualization.
+    * **`CBT_Analysis.ipynb`**: The main notebook with all the code for the project.
+* **`data/`**: Holds the raw and processed data files.
+    * **`student-scores.csv`**: The dataset used for the analysis.
+* **`images/`**: Stores the output visualizations.
+    * **`CBT-Histogram.png`**: The histogram plot.
+    * **`CBT-KDplot.png`**: The Kernel Density Estimate plot.
+* **`README.md`**: This file, providing an overview of the project.
