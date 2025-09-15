@@ -16,6 +16,7 @@ This project analyzes CBT (Computer Based Test) assessment results to understand
 
 ## Visualizations
 ![Marks shown in Histogram](images/CBT-Histogram.png)
+
 ![Marks shown in KDE ](images/CBT-KDplot.png)
 
 ## Project Structure
